@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		22512AB224B0A7D4007AA60F /* ToDoItem.swift in Sources */ = {isa = PBXBuildFile; fileRef = 22512AB124B0A7D4007AA60F /* ToDoItem.swift */; };
 		2298EF2C24ADCE2D00028262 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2298EF2B24ADCE2D00028262 /* AppDelegate.swift */; };
 		2298EF2E24ADCE2D00028262 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2298EF2D24ADCE2D00028262 /* SceneDelegate.swift */; };
 		2298EF3124ADCE2D00028262 /* SwiftUI7.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 2298EF2F24ADCE2D00028262 /* SwiftUI7.xcdatamodeld */; };
@@ -17,6 +18,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		22512AB124B0A7D4007AA60F /* ToDoItem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ToDoItem.swift; sourceTree = "<group>"; };
 		2298EF2824ADCE2D00028262 /* SwiftUI7.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftUI7.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		2298EF2B24ADCE2D00028262 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		2298EF2D24ADCE2D00028262 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -58,6 +60,7 @@
 		2298EF2A24ADCE2D00028262 /* SwiftUI7 */ = {
 			isa = PBXGroup;
 			children = (
+				22512AB124B0A7D4007AA60F /* ToDoItem.swift */,
 				2298EF2B24ADCE2D00028262 /* AppDelegate.swift */,
 				2298EF2D24ADCE2D00028262 /* SceneDelegate.swift */,
 				2298EF3224ADCE2D00028262 /* ContentView.swift */,
@@ -151,6 +154,7 @@
 			files = (
 				2298EF3124ADCE2D00028262 /* SwiftUI7.xcdatamodeld in Sources */,
 				2298EF2C24ADCE2D00028262 /* AppDelegate.swift in Sources */,
+				22512AB224B0A7D4007AA60F /* ToDoItem.swift in Sources */,
 				2298EF3324ADCE2D00028262 /* ContentView.swift in Sources */,
 				2298EF2E24ADCE2D00028262 /* SceneDelegate.swift in Sources */,
 			);
